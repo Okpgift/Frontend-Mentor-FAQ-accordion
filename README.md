@@ -24,6 +24,13 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 - See hover and focus states for all interactive elements on the page
 
 ## SCREENSHOT
+![](.//screenshot/Desktop-View.png)
+![](.//screenshot/Mobile-View.png)
+
+
+
+
+
 ## LINKS
 ## BUILT WITH 
 
